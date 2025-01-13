@@ -1,2 +1,2 @@
 # microplastic.microbes
-16S analysis using DADA2 and Phyloseq
+16S analysis using DADA2 and phyloseq
